@@ -1,0 +1,300 @@
+--- Episode 1 End ---
+Total Reward: -2110.65
+Steps taken: 50
+Final State: (3, 7, 10, 15)
+Best Action: (3, 'left') | Q-value: 14.29
+
+--- Episode 2 End ---
+Total Reward: -3020.28
+Steps taken: 50
+Final State: (3, 7, 12, 16)
+Best Action: (0, 'left') | Q-value: 0.00
+
+--- Episode 3 End ---
+Total Reward: -1463.01
+Steps taken: 50
+Final State: (3, 7, 11, 15)
+Best Action: (0, 'left') | Q-value: 0.00
+
+--- Episode 4 End ---
+Total Reward: -1655.28
+Steps taken: 50
+Final State: (3, 7, 10, 14)
+Best Action: (0, 'left') | Q-value: 46.85
+
+--- Episode 5 End ---
+Total Reward: -186.81
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 47.26
+
+--- Episode 6 End ---
+Total Reward: -1344.65
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 63.30
+
+--- Episode 7 End ---
+Total Reward: -812.37
+Steps taken: 50
+Final State: (2, 6, 11, 16)
+Best Action: (3, 'left') | Q-value: 8.89
+
+--- Episode 8 End ---
+Total Reward: -2379.28
+Steps taken: 50
+Final State: (2, 6, 12, 14)
+Best Action: (0, 'left') | Q-value: 0.00
+
+--- Episode 9 End ---
+Total Reward: -440.45
+Steps taken: 50
+Final State: (3, 7, 11, 15)
+Best Action: (0, 'left') | Q-value: 23.27
+
+--- Episode 10 End ---
+Total Reward: 317.55
+Steps taken: 50
+Final State: (2, 8, 10, 14)
+Best Action: (2, 'right') | Q-value: 81.10
+
+--- Episode 11 End ---
+Total Reward: -833.65
+Steps taken: 50
+Final State: (2, 8, 10, 15)
+Best Action: (3, 'right') | Q-value: 13.54
+
+--- Episode 12 End ---
+Total Reward: -714.09
+Steps taken: 50
+Final State: (3, 6, 10, 16)
+Best Action: (0, 'left') | Q-value: 0.00
+
+--- Episode 13 End ---
+Total Reward: 796.19
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 152.50
+
+--- Episode 14 End ---
+Total Reward: 385.91
+Steps taken: 50
+Final State: (3, 6, 12, 14)
+Best Action: (0, 'left') | Q-value: 116.15
+
+--- Episode 15 End ---
+Total Reward: 316.83
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 214.88
+
+--- Episode 16 End ---
+Total Reward: -1133.01
+Steps taken: 50
+Final State: (2, 8, 11, 15)
+Best Action: (3, 'left') | Q-value: 76.22
+
+--- Episode 17 End ---
+Total Reward: 1343.10
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 311.45
+
+--- Episode 18 End ---
+Total Reward: 702.19
+Steps taken: 50
+Final State: (2, 7, 10, 14)
+Best Action: (1, 'right') | Q-value: 315.12
+
+--- Episode 19 End ---
+Total Reward: 1098.83
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 382.76
+
+--- Episode 20 End ---
+Total Reward: 1509.74
+Steps taken: 50
+Final State: (2, 7, 10, 14)
+Best Action: (1, 'right') | Q-value: 399.67
+
+--- Episode 21 End ---
+Total Reward: -263.73
+Steps taken: 50
+Final State: (3, 7, 10, 14)
+Best Action: (0, 'left') | Q-value: 372.67
+
+--- Episode 22 End ---
+Total Reward: 1348.02
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 449.87
+
+--- Episode 23 End ---
+Total Reward: 878.38
+Steps taken: 50
+Final State: (2, 8, 10, 14)
+Best Action: (2, 'right') | Q-value: 450.09
+
+--- Episode 24 End ---
+Total Reward: 789.55
+Steps taken: 50
+Final State: (2, 8, 10, 14)
+Best Action: (2, 'right') | Q-value: 472.87
+
+--- Episode 25 End ---
+Total Reward: 898.10
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 526.55
+
+--- Episode 26 End ---
+Total Reward: 1558.74
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 525.93
+
+--- Episode 27 End ---
+Total Reward: 1553.38
+Steps taken: 50
+Final State: (2, 8, 10, 14)
+Best Action: (2, 'right') | Q-value: 515.96
+
+--- Episode 28 End ---
+Total Reward: 689.19
+Steps taken: 50
+Final State: (2, 7, 10, 16)
+Best Action: (3, 'left') | Q-value: 429.77
+
+--- Episode 29 End ---
+Total Reward: 1528.46
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 554.77
+
+--- Episode 30 End ---
+Total Reward: 1857.66
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 575.65
+
+--- Episode 31 End ---
+Total Reward: 990.10
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 578.65
+
+--- Episode 32 End ---
+Total Reward: 1715.74
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 573.64
+
+--- Episode 33 End ---
+Total Reward: 1504.10
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 590.21
+
+--- Episode 34 End ---
+Total Reward: 1928.02
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 580.28
+
+--- Episode 35 End ---
+Total Reward: 1707.66
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 596.96
+
+--- Episode 36 End ---
+Total Reward: 1627.38
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 599.11
+
+--- Episode 37 End ---
+Total Reward: 2181.30
+Steps taken: 50
+Final State: (2, 7, 10, 14)
+Best Action: (1, 'right') | Q-value: 579.55
+
+--- Episode 38 End ---
+Total Reward: 1815.02
+Steps taken: 50
+Final State: (2, 8, 10, 15)
+Best Action: (3, 'right') | Q-value: 368.49
+
+--- Episode 39 End ---
+Total Reward: 1867.66
+Steps taken: 50
+Final State: (2, 7, 11, 14)
+Best Action: (2, 'left') | Q-value: 604.62
+
+--- Episode 40 End ---
+Total Reward: 2065.02
+Steps taken: 50
+Final State: (2, 7, 10, 14)
+Best Action: (1, 'right') | Q-value: 583.80
+
+--- Episode 41 End ---
+Total Reward: 2410.30
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 593.37
+
+--- Episode 42 End ---
+Total Reward: 1954.02
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 593.90
+
+--- Episode 43 End ---
+Total Reward: 2379.93
+Steps taken: 50
+Final State: (2, 8, 10, 14)
+Best Action: (2, 'right') | Q-value: 572.45
+
+--- Episode 44 End ---
+Total Reward: 2063.02
+Steps taken: 50
+Final State: (2, 7, 10, 14)
+Best Action: (1, 'right') | Q-value: 586.06
+
+--- Episode 45 End ---
+Total Reward: 2405.66
+Steps taken: 50
+Final State: (2, 8, 10, 14)
+Best Action: (2, 'right') | Q-value: 573.07
+
+--- Episode 46 End ---
+Total Reward: 2457.30
+Steps taken: 50
+Final State: (2, 7, 12, 14)
+Best Action: (1, 'right') | Q-value: 280.27
+
+--- Episode 47 End ---
+Total Reward: 2212.66
+Steps taken: 50
+Final State: (2, 8, 10, 14)
+Best Action: (2, 'right') | Q-value: 573.42
+
+--- Episode 48 End ---
+Total Reward: 2209.30
+Steps taken: 50
+Final State: (2, 7, 10, 14)
+Best Action: (1, 'right') | Q-value: 586.71
+
+--- Episode 49 End ---
+Total Reward: 2106.02
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 595.48
+
+--- Episode 50 End ---
+Total Reward: 2457.30
+Steps taken: 50
+Final State: (2, 8, 11, 14)
+Best Action: (1, 'left') | Q-value: 595.55
+
